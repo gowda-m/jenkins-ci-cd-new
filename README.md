@@ -43,7 +43,7 @@ http://localhost
  
 ---
  
-### Step 2: Install Git
+### Step 2: Install Git in Both servers
  
 Git is required for Jenkins to pull code from GitHub.
  
