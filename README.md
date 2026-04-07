@@ -161,10 +161,8 @@ ssh root@localhost
  
 ### Step 10: Push Code to GitHub using VS Code
 
-* git init
 * git add .
 * git commit -m "Initial commit"
-* git remote add origin https://github.com/gowda-m/jenkins-ci-cd-new.git
 * git push -u origin main
  
 ![push_code](Images/push_code.png)
