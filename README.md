@@ -134,7 +134,6 @@ ssh root@localhost
 * Configure job
  
 ![Branch_created1](Images/Branch_created1.png)
-![Branch_created1](Images/Branch_created2.png)
  
 ---
  
@@ -188,8 +187,7 @@ Files deployed to:
 ```
 /var/www/html/
 ```
- 
-![deployment](Images/deployment_index.png)
+
  
 ---
  
@@ -200,7 +198,8 @@ http://localhost
 ```
  
 Website is live
- 
+  
+![deployment](Images/deployment_index.png)
  
 ---
  
